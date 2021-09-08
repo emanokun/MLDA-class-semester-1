@@ -2,3 +2,4 @@
 Machine Learning and Data Analytics Class 
 
 today is 8/6/2021
+lala
